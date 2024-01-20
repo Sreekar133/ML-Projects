@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import sys
 import pandas as pd
@@ -142,4 +142,4 @@ class CustomData:
 
         except Exception as e:
             raise CustomException(e, sys)
->>>>>>> 54e94058cb930669d667809075caa89a915bb657
+
