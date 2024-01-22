@@ -8,5 +8,6 @@ scikit-learn
 catboost
 xgboost
 dill
-Flaskgit 
+Flask
+git 
 -e .
