@@ -9,5 +9,4 @@ catboost
 xgboost
 dill
 Flask
-git 
 -e .
